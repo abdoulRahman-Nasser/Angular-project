@@ -1,2 +1,2 @@
 # Angular-project
-Angular course Taskes- ITI
+Angular course Tasks- ITI
